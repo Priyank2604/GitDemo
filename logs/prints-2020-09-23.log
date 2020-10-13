@@ -1,0 +1,7 @@
+18:45:56.096 [main] INFO  Academy.validateTitle - Driver is initialized
+18:46:01.380 [main] INFO  Academy.validateTitle - Navigated to Home page1
+18:55:43.570 [TestNG-test=Validating User Login-1] INFO  Academy.HomePage - ddd
+18:55:53.497 [TestNG-test=Validating User Login-1] INFO  Academy.HomePage - kkk1
+18:56:11.472 [TestNG-test=Validating navigation bar-1] INFO  Academy.validateNavBar - Navigation bar is displayed
+18:56:23.529 [main] INFO  Academy.validateTitle - Driver is initialized
+18:56:29.324 [main] INFO  Academy.validateTitle - Navigated to Home page1

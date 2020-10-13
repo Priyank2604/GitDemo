@@ -1,0 +1,7 @@
+17:51:55.914 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+17:51:59.328 [TestNG-tests-1] INFO  resources.base - ddd
+17:52:08.644 [TestNG-tests-1] INFO  resources.base - kkk1
+18:15:32.803 [TestNG-tests-3] INFO  resources.base - Driver is initialized
+18:15:47.760 [TestNG-tests-3] INFO  resources.base - Navigated to Home page1
+18:15:49.736 [TestNG-tests-3] INFO  resources.base - Successfully validated Text message
+18:15:50.954 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed

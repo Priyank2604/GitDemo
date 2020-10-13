@@ -1,0 +1,8 @@
+16:27:32.680 [main] INFO  Academy.validateNavBar - Navigation bar is displayed
+16:27:41.230 [main] INFO  Academy.validateTitle - Driver is initialized
+16:27:47.996 [main] INFO  Academy.validateTitle - Navigated to Home page1
+16:27:48.130 [main] INFO  Academy.validateTitle - Successfully validated Text message
+16:45:40.455 [main] INFO  Academy.HomePage - ddd
+16:45:50.580 [main] INFO  Academy.HomePage - kkk1
+16:46:10.952 [main] INFO  Academy.validateNavBar - Navigation bar is displayed
+16:46:23.496 [main] INFO  Academy.validateTitle - Driver is initialized

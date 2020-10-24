@@ -30,6 +30,9 @@ public class validateTitle extends base {
        l=new LandingPage(driver);
         Assert.assertEquals(l.getTitle().getText(),"AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING");
         Log.info("Successfully validated Text message");
+        System.out.println("Tested1");
+        System.out.println("Tested2");
+        System.out.println("Tested3");
     }
 
     @Test

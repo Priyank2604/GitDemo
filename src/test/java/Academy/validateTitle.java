@@ -33,6 +33,10 @@ public class validateTitle extends base {
         System.out.println("Tested1");
         System.out.println("Tested2");
         System.out.println("Tested3");
+        System.out.println("Tested4");
+        System.out.println("Tested5");
+        System.out.println("Tested6");
+        System.out.println("Tested7");
     }
 
     @Test

@@ -43,6 +43,18 @@ public class validateTitle extends base {
     public void validateHeader(){
         l=new LandingPage(driver);
         Assert.assertEquals(l.getHeader().getText(),"FEATURED COURSES");
+        System.out.println("Testing one");
+        System.out.println("Testing two");
+        System.out.println("Testing three");
+        System.out.println("Testing four");
+    }
+    @Test
+    public void Test(){
+        System.out.println("T1");
+        System.out.println("T2");
+        System.out.println("T3");
+        System.out.println("T4");
+        System.out.println("T5");
     }
     @AfterTest
     public void tearDown(){

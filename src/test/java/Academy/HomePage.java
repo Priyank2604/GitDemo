@@ -39,6 +39,9 @@ public class HomePage extends base {
         lg.loginPassword().sendKeys(Password);
         Log.info(Text);
         lg.loginBtn().click();
+        System.out.println("test1");
+        System.out.println("test2");
+        System.out.println("test3");
 
 
 //        driver.quit();
